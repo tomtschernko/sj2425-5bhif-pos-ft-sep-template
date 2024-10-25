@@ -22,12 +22,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{324FFA4D-569A-44F2-926B-90E39A27AE6A}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
-		theoriefrage1.md = theoriefrage1.md
-		theoriefrage1.puml = theoriefrage1.puml
-		theoriefrage2.md = theoriefrage2.md
-		theoriefrage2.puml = theoriefrage2.puml
-		theoriefrage3.md = theoriefrage3.md
-		theoriefrage3.puml = theoriefrage3.puml
 	EndProjectSection
 EndProject
 Global
