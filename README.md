@@ -1,5 +1,6 @@
 # Ergänzende Informationen
 Die Angabe zur Übung ist in der Datei `Angabe.pdf` zu finden.
+Es ist nur Teil 1 der Übung zu bearbeiten.
 
 Notenrelevat für diese und alle weiteren Übungen sind
 regelmäßige Commits. Diese sollen die Entwicklungsschritte 
